@@ -1,0 +1,19 @@
+body
+{	background: linear-gradient(to right,#110E42,#5E55E6);
+	//background-color: #FFF391;//
+}
+#frm
+{
+	border: solid #73E873 3px;
+	width: 40%;
+	border-radius: 5px;
+	margin:	100px auto;
+	background:  linear-gradient(to right, #4285F4, #73E8E4);
+	padding: 50px;
+}
+#btn{
+	color: white;
+	background: linear-gradient(to right, black,blue);
+	padding: 6px;
+	margin-left:50%;
+}
